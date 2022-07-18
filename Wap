@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML, CSS and JavaScript demo</title>
+</head>
+<body>
+<!-- Start your code here -->
+<h2>  <pre> 
+one
+two
+three
+four</pre>
+  
+  <ul>
+    <li>list one</li>
+    
+    <li>list two</li>
+    
+    <table> 
+    
+      <tr>
+
+        <th> data</th>
+      </tr>
+      
+      
+      <tr>
+
+        
+      </tr>
+    </table>>
+    
+    
+  </ul>>
+  </h2></pre>
+<p class="lw">Hello Weaver!</p>
+  <a href="www.google.com">Google</a>
+<!-- End your code here -->
+</body>
+</html>
